@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../Strings"
+		},
+		{
+			"path": "../sorting"
+		},
+		{
+			"path": "../Arraylist"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
